@@ -1,5 +1,5 @@
-site_name: Yuki Policy Notes
-site_description: 政治・経済の論点整理と政策オプション比較（学習ノート）
+site_name: "中山雄稀 Policy Notes"
+site_description: "政策課題を制度・争点・選択肢で整理する月次ノート（東京大学大学院 公共政策）"
 theme:
   name: material
   language: ja
