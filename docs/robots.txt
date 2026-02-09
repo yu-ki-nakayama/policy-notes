@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yu-ki-nakayama.github.io/policy-notes/sitemap.xml
