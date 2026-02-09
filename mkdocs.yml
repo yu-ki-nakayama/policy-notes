@@ -1,5 +1,8 @@
 site_name: "中山雄稀 Policy Notes"
 site_description: "政策課題を制度・争点・選択肢で整理する月次ノート（東京大学大学院 公共政策）"
+
+site_url: "https://yu-ki-nakayama.github.io/policy-notes/"
+
 theme:
   name: material
   language: ja
