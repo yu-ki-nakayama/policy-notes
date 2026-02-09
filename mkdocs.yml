@@ -1,0 +1,20 @@
+site_name: Yuki Policy Notes
+site_description: 政治・経済の論点整理と政策オプション比較（学習ノート）
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - search.suggest
+    - content.code.copy
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Themes:
+      - 一覧: themes/index.md
+  - Template: template/monthly.md
