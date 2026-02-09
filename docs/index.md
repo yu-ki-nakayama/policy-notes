@@ -9,7 +9,7 @@
 ## Start here
 - [Themes（年月別一覧）](themes/index.md)
 - [月次テンプレ（コピペ用）](template/monthly.md)
-- [About](about.md)
+- [自己紹介・連絡先](about.md)
 
 ## Latest
 - [2026-04（予定）：社会保障](themes/2026-04.md)
