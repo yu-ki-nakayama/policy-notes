@@ -20,4 +20,10 @@ nav:
   - About: about.md
   - Themes:
       - 一覧: themes/index.md
-  - Template: template/monthly.md
+  - Activity Log:
+      - 一覧: activity/index.md
+      - 2026:
+          - "2026-03-02": activity/2026/2026-03-02-xxx.md
+  - Template:
+      - 月次テンプレ: template/monthly.md
+      - 活動ログテンプレ: template/activity.md
