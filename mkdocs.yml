@@ -23,7 +23,8 @@ nav:
   - Activity Log:
       - 一覧: activity/index.md
       - 2026:
-          - "2026-03-02": activity/2026/2026-03-02-xxx.md
+          - "2026年2月8日": activity/activity_20260208.md
+          - "2026年2月26日": activity/activity_20260226.md
   - Template:
       - 月次テンプレ: template/monthly.md
       - 活動ログテンプレ: template/activity.md
