@@ -12,7 +12,7 @@
 ## コンテンツ
 - [月次テーマ（年月別一覧）](themes/index.md)
 - [活動ログ（対外活動・運営記録）](activity/index.md)
-- [月次テンプレ（コピペ用）](template/monthly.md)
+- [月次テンプレ（公開版）](template/monthly.md)
 - [自己紹介・連絡先](about.md)
 
 ## 最近の更新
