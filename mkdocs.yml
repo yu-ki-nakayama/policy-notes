@@ -1,6 +1,5 @@
-site_name: "中山雄稀 政策メモ・活動ログ"
-site_description: "政策課題を制度・争点・選択肢で整理する月次ノート（東京大学大学院 公共政策）"
-
+site_name: "中山雄稀 政策メモ"
+site_description: "東京大学公共政策大学院の中山雄稀による、社会保障・財政・教育・安全保障などの政策メモ。制度・データ・論点・政策オプションを整理。"
 site_url: "https://yu-ki-nakayama.github.io/policy-notes/"
 
 theme:
